@@ -4,19 +4,16 @@ End-to-End Deep Learning Project - 1 - Chicken Disease Classification
 ### Tools you have to install:-
 
 1. Anaconda: https://www.anaconda.com/
-2. VS code: https://code.visualstudio.com/
+2. VS Code: https://code.visualstudio.com/
 3. Git: https://git-scm.com/
-
 
 ### For Flowchart 
 
 - https://whimsical.com/a
 
-
 ### Project Management
 
 - https://www.atlassian.com/software/jira
-
 
 ## Workflows
 
@@ -28,7 +25,6 @@ End-to-End Deep Learning Project - 1 - Chicken Disease Classification
 7. Update the pipeline 
 8. Update the main.py
 9. Update the app.py
-
 
 ## How to run?
 
@@ -53,4 +49,11 @@ git add .
 git status
 git commit -m "message"
 git push origin branch
+```
+
+### Export the environment
+
+```bash
+export AWS_ACCESS_KEY_ID="YOUR_ACCESS_KEY_ID""
+export AWS_SECRET_ACCESS_KEY="YOUR_SECRET_ACCESS_KEY"
 ```
